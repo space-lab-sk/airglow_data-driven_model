@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4306913.svg)](https://doi.org/10.5281/zenodo.4306913)
+
 ## Airglow data-driven modeling over a period of three solar cycles
 ### Supplemental materials to the paper: 
 - Python notebook ([airglow_data_driven_modeling.ipynb](/airglow_data_driven_modeling.ipynb)) that contains complete analysis and results presented in the article
